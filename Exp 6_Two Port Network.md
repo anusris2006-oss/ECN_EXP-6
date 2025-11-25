@@ -28,6 +28,54 @@ Simulation Circuit Diagram:
 
 
 Tabular Column:-
+
+Z-parameter:
+
+<img width="1280" height="630" alt="image" src="https://github.com/user-attachments/assets/be8011bb-19c6-4056-b016-f28fc6e0a50a" />
+
+h-paramter:
+
+<img width="1280" height="601" alt="image" src="https://github.com/user-attachments/assets/4ac99ae2-e1ae-494b-a23a-54db19fce984" />
+
+ABCD Parameter:
+
+<img width="1280" height="612" alt="image" src="https://github.com/user-attachments/assets/006d77b0-07fc-46ec-90e4-e3c5a6db83de" />
+
+Calculations:-
+Z-parameter:
+
+<img width="1080" height="605" alt="image" src="https://github.com/user-attachments/assets/9c0a56b6-65fc-48ad-9515-2f0f13d58948" />
+
+h-paramter:
+
+<img width="1280" height="327" alt="image" src="https://github.com/user-attachments/assets/f4a87944-716e-48f8-b1f3-7e49a7075029" />
+
+
+ABCD Parameter:
+
+<img width="1080" height="382" alt="image" src="https://github.com/user-attachments/assets/8e7256ea-a271-469e-9899-8678236b8502" />
+
+
+Results:-
+Thus,  Z ,h and ABCD parameters of single and cascaded two-Port networks experimentally and verify their interrelationships.
+
+Theoritical:-
+
+Z-parameter:
+
+<img width="1080" height="605" alt="image" src="https://github.com/user-attachments/assets/9c0a56b6-65fc-48ad-9515-2f0f13d58948" />
+
+h-paramter:
+
+<img width="1280" height="327" alt="image" src="https://github.com/user-attachments/assets/f4a87944-716e-48f8-b1f3-7e49a7075029" />
+
+
+ABCD Parameter:
+
+<img width="1080" height="382" alt="image" src="https://github.com/user-attachments/assets/8e7256ea-a271-469e-9899-8678236b8502" />
+
+Practical:-
+
 Z-parameter:
 case-1:
 <img width="1374" height="753" alt="Screenshot 2025-11-11 111403" src="https://github.com/user-attachments/assets/c4561c81-761c-4a84-bec6-5463f12d4902" />
@@ -45,13 +93,3 @@ case-1:
 <img width="1381" height="755" alt="Screenshot 2025-11-11 112303" src="https://github.com/user-attachments/assets/1d0b4c6c-d7f0-4809-81ce-92796da2b6fc" />
 case-2:
 <img width="1370" height="763" alt="Screenshot 2025-11-11 112334" src="https://github.com/user-attachments/assets/cb55a98c-c1d9-43f6-8805-6fd372927866" />
-
-
-Calculations:-
-
-Results:-
-Thus,  Z ,h and ABCD parameters of single and cascaded two-Port networks experimentally and verify their interrelationships.
-
-Theoritical:-
-
-Practical:-
